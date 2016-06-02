@@ -16,5 +16,5 @@
 <%--@elvariable id="workspace" type="java.lang.String"--%>
 <%--@elvariable id="renderContext" type="org.jahia.services.render.RenderContext"--%>
 <%--@elvariable id="currentResource" type="org.jahia.services.render.Resource"--%>
-<h2>Modification from the studio selenium 227</h2>odification from the studio selenium 227</h2>="org.<h2>This is selenium 227</h2>.services.render.URLGenerator"--%>
+<h2>This is the second conflict from git for selenium 227</h2>odification from the studio selenium 227</h2>="org.<h2>This is selenium 227</h2>.services.render.URLGenerator"--%>
 >>>>>>> Stashed changes
