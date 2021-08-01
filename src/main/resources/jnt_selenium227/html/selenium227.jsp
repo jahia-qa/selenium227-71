@@ -17,4 +17,4 @@
 <%--@elvariable id="renderContext" type="org.jahia.services.render.RenderContext"--%>
 <%--@elvariable id="currentResource" type="org.jahia.services.render.Resource"--%>
 <%--@elvariable id="url" type="org.jahia.services.render.URLGenerator"--%>
-<h2>This is selenium 227</h2>
+<h2>This is the conflict from git for selenium 227</h2>
